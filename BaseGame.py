@@ -9,7 +9,7 @@ from pygame import * #game uses pygame for display
 from random import* #Random processing
 import time as t #Getting current time
 #Game constants--
-TCP_IP = '127.0.0.1'#'159.203.147.141'
+TCP_IP = 'sharedservices.masseyhacks.ca'#'159.203.147.141'
 TCP_PORT = 4545
 BUFFER_SIZE = 4096
 #----------------
