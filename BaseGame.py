@@ -10,7 +10,7 @@ from random import* #Random processing
 import time as t #Getting current time
 #Game constants--
 TCP_IP = 'sharedservices.masseyhacks.ca'#'159.203.147.141'
-TCP_PORT = 4545
+TCP_PORT = 8080
 BUFFER_SIZE = 4096
 #----------------
 def check_health(player):
